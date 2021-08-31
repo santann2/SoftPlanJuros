@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rPlv1eG7+xuowldfNl1Wx8ZbR6bSWUxhQrJloKe6Me+RFJqO2/g31m9U4/c0/pyux/KxkLGvrPEUffnM5MCZPw==",
+  "success": true,
+  "projectFilePath": "C:\\git\\SoftPlanJuros\\Juros.Core.Domain\\Juros.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

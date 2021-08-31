@@ -1,0 +1,17 @@
+C:\git\SoftPlanJuros\Juros.Core.Application\bin\Debug\netcoreapp3.1\Juros.Core.Application.deps.json
+C:\git\SoftPlanJuros\Juros.Core.Application\bin\Debug\netcoreapp3.1\Juros.Core.Application.dll
+C:\git\SoftPlanJuros\Juros.Core.Application\bin\Debug\netcoreapp3.1\Juros.Core.Application.pdb
+C:\git\SoftPlanJuros\Juros.Core.Application\bin\Debug\netcoreapp3.1\Juros.Core.Data.dll
+C:\git\SoftPlanJuros\Juros.Core.Application\bin\Debug\netcoreapp3.1\Juros.Core.Domain.dll
+C:\git\SoftPlanJuros\Juros.Core.Application\bin\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.dll
+C:\git\SoftPlanJuros\Juros.Core.Application\bin\Debug\netcoreapp3.1\Juros.Core.Domain.pdb
+C:\git\SoftPlanJuros\Juros.Core.Application\bin\Debug\netcoreapp3.1\Juros.Core.Data.pdb
+C:\git\SoftPlanJuros\Juros.Core.Application\bin\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.pdb
+C:\git\SoftPlanJuros\Juros.Core.Application\obj\Debug\netcoreapp3.1\Juros.Core.Application.csproj.AssemblyReference.cache
+C:\git\SoftPlanJuros\Juros.Core.Application\obj\Debug\netcoreapp3.1\Juros.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftPlanJuros\Juros.Core.Application\obj\Debug\netcoreapp3.1\Juros.Core.Application.AssemblyInfoInputs.cache
+C:\git\SoftPlanJuros\Juros.Core.Application\obj\Debug\netcoreapp3.1\Juros.Core.Application.AssemblyInfo.cs
+C:\git\SoftPlanJuros\Juros.Core.Application\obj\Debug\netcoreapp3.1\Juros.Core.Application.csproj.CoreCompileInputs.cache
+C:\git\SoftPlanJuros\Juros.Core.Application\obj\Debug\netcoreapp3.1\Juros.Core.Application.csproj.CopyComplete
+C:\git\SoftPlanJuros\Juros.Core.Application\obj\Debug\netcoreapp3.1\Juros.Core.Application.dll
+C:\git\SoftPlanJuros\Juros.Core.Application\obj\Debug\netcoreapp3.1\Juros.Core.Application.pdb

@@ -1,0 +1,10 @@
+C:\git\SoftPlanJuros\Juros.Core.Data\bin\Debug\netcoreapp3.1\Juros.Core.Data.deps.json
+C:\git\SoftPlanJuros\Juros.Core.Data\bin\Debug\netcoreapp3.1\Juros.Core.Data.dll
+C:\git\SoftPlanJuros\Juros.Core.Data\bin\Debug\netcoreapp3.1\Juros.Core.Data.pdb
+C:\git\SoftPlanJuros\Juros.Core.Data\obj\Debug\netcoreapp3.1\Juros.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftPlanJuros\Juros.Core.Data\obj\Debug\netcoreapp3.1\Juros.Core.Data.AssemblyInfoInputs.cache
+C:\git\SoftPlanJuros\Juros.Core.Data\obj\Debug\netcoreapp3.1\Juros.Core.Data.AssemblyInfo.cs
+C:\git\SoftPlanJuros\Juros.Core.Data\obj\Debug\netcoreapp3.1\Juros.Core.Data.csproj.CoreCompileInputs.cache
+C:\git\SoftPlanJuros\Juros.Core.Data\obj\Debug\netcoreapp3.1\Juros.Core.Data.dll
+C:\git\SoftPlanJuros\Juros.Core.Data\obj\Debug\netcoreapp3.1\Juros.Core.Data.pdb
+C:\git\SoftPlanJuros\Juros.Core.Data\obj\Debug\netcoreapp3.1\Juros.Core.Data.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "02RZKAvW62aHHyZ2ib+dYhD8mkaxqNYGb5RyLYlfQYdIfEdhFlxNeFMy9hjGo8I6Jlk0f+tzcJp9sNMvWUWc8Q==",
+  "success": true,
+  "projectFilePath": "C:\\git\\SoftPlanJuros\\Juros.Core.Application\\Juros.Core.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

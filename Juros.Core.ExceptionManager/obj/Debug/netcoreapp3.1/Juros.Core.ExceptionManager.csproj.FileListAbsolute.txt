@@ -1,0 +1,10 @@
+C:\git\SoftPlanJuros\Juros.Core.ExceptionManager\bin\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.deps.json
+C:\git\SoftPlanJuros\Juros.Core.ExceptionManager\bin\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.dll
+C:\git\SoftPlanJuros\Juros.Core.ExceptionManager\bin\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.pdb
+C:\git\SoftPlanJuros\Juros.Core.ExceptionManager\obj\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SoftPlanJuros\Juros.Core.ExceptionManager\obj\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.AssemblyInfoInputs.cache
+C:\git\SoftPlanJuros\Juros.Core.ExceptionManager\obj\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.AssemblyInfo.cs
+C:\git\SoftPlanJuros\Juros.Core.ExceptionManager\obj\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.csproj.CoreCompileInputs.cache
+C:\git\SoftPlanJuros\Juros.Core.ExceptionManager\obj\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.dll
+C:\git\SoftPlanJuros\Juros.Core.ExceptionManager\obj\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.pdb
+C:\git\SoftPlanJuros\Juros.Core.ExceptionManager\obj\Debug\netcoreapp3.1\Juros.Core.ExceptionManager.csproj.AssemblyReference.cache

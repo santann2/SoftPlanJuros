@@ -1,0 +1,21 @@
+version: '3.7'
+
+services:
+  Juros.Core.Api:
+    image: softplan/sp:juros
+    worker_dir: /app
+    build:
+      context: .
+      dockerfile: SoftPlanJuros/Juros.Core.Api/Dockerfile
+    ports:
+      - "3001:3001"
+    networks:
+      s_plan:
+        ipv4_address: 172.168.10.01
+
+networks:
+  s_plan:
+    driver: default
+    config:
+      - subnet: "172.168.10.0/24"
+      - subnet: "2001:3984:3989::/64"
